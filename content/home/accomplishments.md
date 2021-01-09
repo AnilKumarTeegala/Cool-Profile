@@ -56,7 +56,7 @@ Module 5: Explainable AI"""
   title = "Applied Data Science I: Scientific Computing & Python (with honors)"
   url = ""
   certificate_url = "https://www.youracclaim.com/badges/7e5d49b3-fddc-4211-bd31-bf7f1725dccd/public_url"
-  date_start = ""
+  date_start = "2020-04-10"
   date_end = "2020-06-01"
   description = ""
 
